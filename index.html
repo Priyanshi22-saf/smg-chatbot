@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SMG Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+<div class="chat-page">
+    <div class="chatbot-card">
+        <div class="chat-header">
+            <span style="font-weight: 600;">🤖 SMG AI Chatbot</span>
+            <span style="color: #4caf50; font-size: 12px;">● Online</span>
+            <div style="display: flex; gap: 8px;">
+                <button onclick="toggleDarkMode()" style="background: rgba(255,255,255,0.2); border: none; color: white; padding: 6px 10px; border-radius: 4px; cursor: pointer; font-size: 14px;">🌙</button>
+                <button onclick="clearChat()" style="background: rgba(255,255,255,0.2); border: none; color: white; padding: 6px 10px; border-radius: 4px; cursor: pointer; font-size: 14px;">🧹</button>
+            </div>
+        </div>
+
+        <div class="chat-messages">
+            <!-- Messages will be loaded here -->
+        </div>
+
+        <div class="chat-input">
+            <button class="voice-btn" id="voiceBtn" title="Voice input">
+                <i class="fas fa-microphone"></i>
+            </button>
+            <input type="text" placeholder="Type your message..." />
+            <button class="speaker-btn" id="speakerBtn" title="Toggle speaker">
+                <i class="fas fa-volume-up"></i>
+            </button>
+            <button>Send</button>
+        </div>
+    </div>
+</div>
+
+<script src="voiceChat.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,150 @@
+{
+  "intents": {
+    "greeting": {
+      "label": "GREETING",
+      "category": "general",
+      "responses": [
+        "Hello 👋\nWelcome to SMG Electric Scooters.\nHow can I assist you today?",
+        "Hi there! I’m the SMG Electric Scooters assistant.\nFeel free to ask about our products, careers, internships, or services.",
+        "Namaste 🙏\nYou’re connected to SMG Electric Scooters.\nI can help you with company information, services, careers, youth programs and more."
+      ]
+    },
+    "about_smg": {
+      "label": "COMPANY_INFO",
+      "category": "company",
+      "responses": [
+        "SMG Electric Scooters is a flagship company of the Saurav Mittal Group, founded in 2020 and headquartered in New Delhi.\nThe Saurav Mittal Group itself was established in 2003 and has grown into a diversified business group.",
+        "Here’s a quick overview of SMG Electric Scooters:\n• Flagship company of Saurav Mittal Group (group founded in 2003)\n• SMG Electric Scooters founded in 2020, HQ in New Delhi\n• Manufacturing plant in Hoshiarpur, Punjab with 1 lakh units/year capacity\n• 1,500+ permanent employees across locations.",
+        "SMG Electric Scooters manufactures electric two‑wheelers from its Hoshiarpur, Punjab facility (capacity of 1 lakh units per year) and operates PAN India with exports to 25+ countries in East Africa, Middle East Asia and other regions, with expansion plans towards Europe and America."
+      ]
+    },
+    "leadership": {
+      "label": "COMPANY_INFO",
+      "category": "leadership",
+      "responses": [
+        "SMG Electric Scooters was founded by Mr. Saurav Gupta, who also serves as the Chief Executive Officer (CEO).\n\nManaging Director: Mr. Neeraj Gupta\nExecutive Director: Mrs. Kamni Rani\nWhole‑Time Director: Ms. Cheshta Gupta",
+        "Our core leadership team at SMG Electric Scooters includes:\n• Founder & CEO: Mr. Saurav Gupta\n• Managing Director: Mr. Neeraj Gupta\n• Executive Director: Mrs. Kamni Rani\n• Whole‑Time Director: Ms. Cheshta Gupta",
+        "Here is the current leadership structure of SMG Electric Scooters:\n- Founder & Chief Executive Officer: Mr. Saurav Gupta\n- Managing Director: Mr. Neeraj Gupta\n- Executive Director: Mrs. Kamni Rani\n- Whole‑Time Director: Ms. Cheshta Gupta"
+      ]
+    },
+    "products": {
+      "label": "PRODUCT_QUERY",
+      "category": "products",
+      "responses": [
+        "We offer a wide range of EV solutions including:\n\n• Electric Scooters\n• Accessories (Helmets, T-shirts, Jackets)\n• Spare Parts\n• E-Fluids & Lubricants\n• Battery Swapping Stations\n• Charging Stations",
+        "SMG Electric Scooters provides:\n- Electric scooters for daily commuting\n- Branded accessories like helmets, T‑shirts and jackets\n- Genuine spare parts and EV fluids\n- Battery swapping and charging infrastructure.",
+        "Here’s what you can get from SMG Electric Scooters:\n• Electric scooters\n• Riding accessories\n• Spare parts and consumables\n• Battery swapping solutions\n• EV charging stations."
+      ]
+    },
+    "services": {
+      "label": "SERVICE_QUERY",
+      "category": "services",
+      "responses": [
+        "Our servicing and support offerings include:\n\n• 24×7 Roadside Assistance\n• Towing facility\n• Pick & Drop for service\n• Live Service Tracking\n• Certified servicemen\n• PAN India service network",
+        "SMG provides a complete after‑sales ecosystem for EV customers:\n- Authorized EV two‑wheeler servicing\n- Roadside assistance and towing\n- Pick & drop convenience\n- Live tracking for service status\n- Certified technicians across a PAN India service network.",
+        "Here’s what you can expect from SMG servicing:\n• 24×7 roadside support and towing\n• Convenient pick & drop options\n• Live status tracking of your vehicle\n• Work handled by certified service professionals across India."
+      ]
+    },
+    "internships": {
+      "label": "INTERNSHIP_QUERY",
+      "category": "programs",
+      "responses": [
+        "SMG Nirmaan is a 30‑day Summer & Winter internship programme for 2nd, 3rd and 4th year engineering students.\n\nAvailable roles:\n• Software Design Engineer Intern\n• EV Component Designer Intern\n\nModes:\n• Onsite\n• Hybrid\n• Online\n\nOnsite working hours: 4 hours (9:00–1:00 or 1:00–5:00)\nOnline working hours: 4 hours (flexible slots)\n\nPerks:\n• Letter of Recommendation\n• Mentorship from industry experts\n• Events and expo exposure\n• Strong industry exposure in green mobility.",
+        "The SMG Nirmaan Internship Programme is a focused 30‑day learning experience for engineering students in their 2nd–4th year, offered in both Summer and Winter batches, with flexible modes (onsite, hybrid, online) and dedicated roles in software design and EV component design.",
+        "Under SMG Nirmaan, interns get structured 30‑day exposure in EV technology, software design and component design, along with mentorship, events, expo participation and a formal Letter of Recommendation from SMG."
+      ]
+    },
+    "scholarships": {
+      "label": "SCHOLARSHIP_QUERY",
+      "category": "programs",
+      "responses": [
+        "SMG offers scholarships for students from Tier 2 & Tier 3 cities whose family income is below ₹3 lakhs per annum.\nEligible courses include MBA, B.Tech and M.Tech, and the scholarship amount can go up to ₹2.5 lakhs.",
+        "Our scholarship programme supports deserving students from Tier‑2 and Tier‑3 cities with family income below ₹3 lakhs per year, primarily for MBA, B.Tech and M.Tech, with awards that may go up to ₹2.5 lakhs based on profile.",
+        "If you are from a Tier‑2 or Tier‑3 city with a family income under ₹3 lakhs per year and pursuing MBA, B.Tech or M.Tech, you may be eligible for SMG Scholarships of up to ₹2.5 lakhs, subject to our internal selection process."
+      ]
+    },
+    "industrial_visit": {
+      "label": "INDUSTRIAL_VISIT_QUERY",
+      "category": "programs",
+      "responses": [
+        "SMG Bhraman is our industrial visit programme where students can experience real corporate operations at SMG’s manufacturing plant.\nVisits are typically scheduled during April–May and October–November.",
+        "Under SMG Bhraman, student groups and institutions can visit our Hoshiarpur manufacturing facility to see actual EV manufacturing, operations and processes, usually in the April–May and October–November windows.",
+        "If your college is interested in industrial visits, SMG Bhraman offers guided plant visits (mainly in April–May and October–November) to give students first‑hand exposure to corporate and manufacturing environments."
+      ]
+    },
+    "financing_insurance": {
+      "label": "FINANCE_QUERY",
+      "category": "finance",
+      "responses": [
+        "On the financing side, SMG works with 10+ finance partners and offers up to 90% financing with interest rates starting around 8.5%, minimal paperwork and hassle‑free approvals.\n\nFor insurance, plans start from around ₹2,499 with 15+ insurance partners and quick approval processes.",
+        "We support buyers with flexible finance options (often up to 90% of the vehicle value, with competitive interest rates and simple documentation) and insurance starting near ₹2,499, through a wide partner network that includes players like Bajaj General Insurance, Muthoot Fincorp, Shriram Finance and Tata Insurance.",
+        "If you’re looking at finance or insurance for an SMG electric scooter, we can connect you to multiple finance partners for loans/EMI and insurance partners with affordable plans, quick processing and minimal paperwork, plus support for resale value discussions over time."
+      ]
+    },
+    "challenges_startup": {
+      "label": "STARTUP_QUERY",
+      "category": "programs",
+      "responses": [
+        "SMG Mobility Challenge is a startup‑focused initiative that offers seed funding to new‑age entrepreneurs working in areas like green mobility, charging infrastructure and renewable energy.",
+        "Through SMG Mobility Challenge, we look for innovative ideas from IITs, NITs, IIMs and other Tier‑1 institutions in green mobility, charging stations and renewable energy.\nTeams should not have taken prior funding from other incubators.",
+        "If you are from an IIT, NIT, IIM or a Tier‑1 university and are building a solution in green mobility, EV charging or renewables without prior incubator funding, you may be eligible to apply for seed support under the SMG Mobility Challenge."
+      ]
+    },
+    "partnerships": {
+      "label": "COMPANY_INFO",
+      "category": "partnerships",
+      "responses": [
+        "Our academic partners include:\n\n• IIT Delhi\n• IIIT Kota\n• Lovely Professional University (LPU)\n• Chandigarh University\n• Rayat Bahra University\n• CT Group of Institutions\n• Gulzar Group of Institutions",
+        "SMG Electric Scooters has active academic collaborations with IIT Delhi, IIIT Kota, LPU, Chandigarh University, Rayat Bahra University, CT Group and Gulzar Group for training, projects and youth programmes.",
+        "Along with academic partners, SMG has corporate MoUs with organisations such as Skylon Helmets, National Skill Development Corporation (NSDC), ASDC India and Sky Skill Academy to strengthen training and skilling initiatives."
+      ]
+    },
+    "jobs": {
+      "label": "JOB_QUERY",
+      "category": "careers",
+      "responses": [
+        "For careers at SMG Electric Scooters, you can share your resume at hr@smgelectricscootersltd.com or smgelectricscootersltd@gmail.com.\nPlease mention your name, contact number and the position you are applying for.",
+        "We hire for both non‑technical and technical roles.\n\nNon‑technical roles include: Production & Assembly, HR, Accounting, Logistics, Supply Chain, Marketing, Sales and Purchase, with average salary ranges from about ₹2.2 LPA to ₹4.5 LPA.\n\nTechnical roles include: Quality, R&D, EV Designing and Software Development, where skills like AutoCAD, SolidWorks, CATIA, MATLAB, NX and MERN stack are valued, with average salary ranges from around ₹3.6 LPA to ₹7.5 LPA.",
+        "If you’re interested in working with SMG Electric Scooters:\n• Email your CV to hr@smgelectricscootersltd.com or smgelectricscootersltd@gmail.com\n• Mention your preferred role (technical or non‑technical)\n• Non‑technical areas: production, HR, accounts, logistics, supply chain, marketing, sales, purchase\n• Technical areas: quality, R&D, EV design, software development\nAverage packages typically range between ~₹2.2 LPA and ₹7.5 LPA depending on role and experience."
+      ]
+    },
+    "dealerships": {
+      "label": "DEALERSHIP_QUERY",
+      "category": "dealerships",
+      "responses": [
+        "SMG currently has 120+ dealerships across India, including 26 premium dealerships.\nBy 2028, we plan to expand to 500+ dealerships across India and globally.",
+        "If you are interested in becoming an SMG dealer:\n• Eligible entities: MSME, LLP, Private Limited or Public Limited companies\n• Investment typically starts from around ₹20 lakhs\n• The network already includes 120+ dealerships with expansion underway towards 500+ by 2028.",
+        "Our dealership network is growing rapidly, with more than 120 dealers (including premium outlets) already on board, and a roadmap to cross 500 dealerships in India and abroad by 2028.\nInvestment usually starts from around ₹20 lakhs and is open to MSME/LLP/Private/Public entities."
+      ]
+    },
+    "contact_social": {
+      "label": "CONTACT_QUERY",
+      "category": "contact",
+      "responses": [
+        "You can reach SMG Electric Scooters at:\n\n📧 Email: smgelectricscootersltd@gmail.com\n\n📱 Social Media:\n• Instagram: https://www.instagram.com/smgelectricscootersltd\n• Twitter (X): https://x.com/SScooters64353\n• YouTube: https://youtube.com/@smgelectricscootersltd\n• WhatsApp Channel: https://whatsapp.com/channel/0029Vb6hEmQISTkSjGE6va1A",
+        "For official communication, you can write to us at smgelectricscootersltd@gmail.com.\nYou can also follow SMG Electric Scooters on Instagram, Twitter (X) and YouTube, and join our WhatsApp Channel for the latest updates and announcements.",
+        "Here are SMG’s key contact points:\n- Email: smgelectricscootersltd@gmail.com\n- Instagram: smgelectricscootersltd\n- Twitter (X): SScooters64353\n- YouTube: smgelectricscootersltd\n- WhatsApp Channel: available via our official invite link.\nFor detailed assistance, our team can support you over email or social media."
+      ]
+    },
+    "closing": {
+      "label": "MENU",
+      "category": "general",
+      "responses": [
+        "Thank you for choosing SMG Electric Scooters ⚡\n\nHere’s what I can help you with:\n• Company information\n• Electric scooter products & services\n• Jobs & internships\n• Scholarships & youth programs\n• Dealership information\n• Financing, insurance & resale\n• Contact details & social media links\n\nTell me which area you’d like to explore.",
+        "Thanks for chatting with SMG Electric Scooters ⚡\nHere’s a quick menu of topics I can help you with:\n- Company overview & leadership\n- EV products and services\n- Internships, scholarships and industrial visits\n- Financing, insurance and servicing\n- Contact details and social channels.\n\nTell me which area you’d like to explore.",
+        "I appreciate your time with SMG Electric Scooters ⚡\nYou can ask me about:\n• SMG company info and leadership\n• Products & after-sales services\n• Nirmaan internships & scholarships\n• SMG Bhraman industrial visits\n• Finance, insurance and support\n\nJust type the topic you’re interested in."
+      ]
+    },
+    "unknown": {
+      "label": "UNKNOWN",
+      "category": "general",
+      "responses": [
+        "I may not have the exact details on that yet.\nCould you please rephrase your question or ask something else related to SMG Electric Scooters, our products, services, internships, scholarships, industrial visits, finance or contact information?",
+        "That’s a bit unclear to me.\nYou can ask me about SMG company information, electric scooter services, jobs and internships, scholarships and youth programmes, dealerships, financing/insurance and contact details.",
+        "I might not have the right answer for that specific query.\nFor detailed assistance, our team will be happy to help you directly via email or social media, or you can try asking a more specific question about SMG’s company, products, services or programmes."
+      ]
+    }
+  }
+}
+
+

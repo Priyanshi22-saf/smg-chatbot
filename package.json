@@ -1,0 +1,41 @@
+{
+  "name": "smg-chatbot-backend",
+  "version": "2.0.0",
+  "description": "Scalable backend for SMG Electric Scooters Chatbot with MongoDB, JWT Auth, and Admin Panel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "seed": "node src/utils/seedAdmin.js"
+  },
+  "keywords": [
+    "chatbot",
+    "express",
+    "mongodb",
+    "jwt",
+    "api",
+    "smg",
+    "electric-scooters"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.3",
+    "natural": "^8.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "optionalDependencies": {
+    "@google/generative-ai": "^0.2.0",
+    "openai": "^4.0.0"
+  }
+}
